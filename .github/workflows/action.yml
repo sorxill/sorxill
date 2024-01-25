@@ -11,8 +11,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: sorxill
-          template: classic
-          base: header, activity
+          template: terminal
+          base: activity
           config_timezone: Europe/Moscow
           plugin_achievements: yes
           plugin_achievements_limit: 12
@@ -31,7 +31,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, languages
+          plugin_wakatime_sections: time
           plugin_wakatime_limit: 5
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: sorxill
