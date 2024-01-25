@@ -2,6 +2,5 @@
 [<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/sorxill/sorxill/blob/main/github-metrics.svg">](https://github.com/sorxill/sorxill)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sorxill/sorxill/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sorxill/sorxill/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sorxill/sorxill/output/github-contribution-grid-snake.svg">
 </picture>
