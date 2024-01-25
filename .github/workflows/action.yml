@@ -11,7 +11,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: sorxill
-          template: terminal
+          template: classic
           base: activity
           config_timezone: Europe/Moscow
           plugin_achievements: yes
