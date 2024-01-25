@@ -12,28 +12,25 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # Options
           user: sorxill
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity
           config_timezone: Europe/Moscow
+          plugin_traffic: yes
           plugin_achievements: yes
           plugin_achievements_limit: 12
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_details: lines, percentage
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 365
           plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: recently-used
           plugin_languages_threshold: 0%
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
@@ -43,6 +40,7 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: sorxill
           plugin_lines: yes
+          plugin_lines_delay: 30
   snake:
       permissions: 
         contents: write
