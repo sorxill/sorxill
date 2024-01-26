@@ -6,6 +6,10 @@
 # Todoist Stats
 
 <!-- TODO-IST:START -->
+🏆  1,571 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 27 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sorxill/sorxill/output/github-contribution-grid-snake-dark.svg">
