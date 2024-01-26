@@ -2,6 +2,9 @@
 [<img align="center" width="600" alt="if you see this, it means my metrics are not working" src="https://github.com/sorxill/sorxill/blob/main/github-metrics.svg">](https://github.com/sorxill/sorxill)
 <!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sorxill&show_icons=true&text_color=b5b8b1&title_color=b5b8b1&hide_title=true&card_width=600&include_all_commits=true&bg_color=DEG,FF0A6C,2D27FF&locale=ru#gh-dark-mode-only)](https://github.com/sorxill/github-readme-stats#gh-dark-mode-only)
 -->
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sorxill&theme=dark)](https://github.com/sorxill/leetcode-stats)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sorxill/sorxill/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sorxill/sorxill/output/github-contribution-grid-snake.svg">
