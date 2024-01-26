@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=256&color=0:FF0A6C,2000:2D27FF&text=Hello%20World!&section=header&reversal=false&textBg=false&fontColor=b5b8b1&fontAlign=50&fontAlignY=27&fontSize=80&stroke=362c12&strokeWidth=0&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descSize=25&descAlignY=52&descAlign=50)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaroslav-britov-43533629)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/sorxill)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vac.ban17@gmail.com&su=Theme&body=HI!)
+
 > [!IMPORTANT]
 > 
 > # ABOUT ME
@@ -21,7 +25,7 @@
 -->
 
 <details>
-    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
+    <summary><h4>👨‍💻 <b>GitHub Activities</b></h4></summary><br/>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#30](https://github.com/sorxill/Tracker/pull/30) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
@@ -34,27 +38,27 @@
 </details>
 
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+    <summary><h4>🏆 <b>GitHub Awards</b></h4></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=sorxill)
-
-</details>
-
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=sorxill&show_icons=true&count_private=true)](https://github.com/sorxill/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=sorxill&layout=compact)](https://github.com/sorxill/github-readme-stats)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=sorxill&theme=gitdimmed&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </details>
 
 <details>
-    <summary>🚧 <b>My LeetCode Stats</b></summary>
+    <summary><h4>📊 <b>GitHub Stats</b></h4></summary><br/>
+
+[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=sorxill&show_icons=true&count_private=true&theme=dark)](https://github.com/sorxill/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=sorxill&layout=compact&theme=dark)](https://github.com/sorxill/github-readme-stats)
+
+</details>
+
+<details>
+    <summary><h4>🚧 <b>LeetCode Stats</b></h4></summary>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sorxill&theme=dark)](https://github.com/sorxill/leetcode-stats)
 </details>
 
 <details>
-    <summary>🎯 <b>My Todoist Stats</b></summary>
+    <summary><h4>🎯 <b>Todoist Stats</b></h4></summary>
 
 <!-- TODO-IST:START -->
 🏆  1,571 Karma Points           
