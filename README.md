@@ -8,11 +8,13 @@
 > 
 > # ABOUT ME
 > 
-> ### **Name: Yaroslav**
+> ### **👋 Name: Yaroslav**
 > 
-> ### **Age: 19**
+> ### **⏳ Age: 19**
 >
-> ### **Development Experience (DX): about 2-3 year**
+>  ### **📍 Vacation: Python Backend Developer**
+> 
+> ### **🌟 Development Experience: about 2-3 year**
 >
 > ## **🔧 Technologies:**
 > 
