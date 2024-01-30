@@ -30,11 +30,11 @@
     <summary><h4>👨‍💻 <b>GitHub Activities</b></h4></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/sorxill/Tracker/pull/31#issuecomment-1913354442) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
-2. 💪 Opened PR [#31](https://github.com/sorxill/Tracker/pull/31) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
-3. 🎉 Merged PR [#30](https://github.com/sorxill/Tracker/pull/30) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
-4. 💪 Opened PR [#30](https://github.com/sorxill/Tracker/pull/30) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
-5. ❗ Opened issue [#29](https://github.com/sorxill/Tracker/issues/29) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
+1. 🗣 Commented on [#31](https://github.com/sorxill/Tracker/pull/31#issuecomment-1916809528) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
+2. 🗣 Commented on [#31](https://github.com/sorxill/Tracker/pull/31#issuecomment-1913354442) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
+3. 💪 Opened PR [#31](https://github.com/sorxill/Tracker/pull/31) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
+4. 🎉 Merged PR [#30](https://github.com/sorxill/Tracker/pull/30) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
+5. 💪 Opened PR [#30](https://github.com/sorxill/Tracker/pull/30) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
 <!--END_SECTION:activity-->
 
 </details>
