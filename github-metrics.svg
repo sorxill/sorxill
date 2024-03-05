@@ -59,17 +59,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.02mb of code in 895 edited files across 406 commits over last 90 days</small>
+                <small>estimation from 1mb of code in 855 edited files across 397 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.7534450863513" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="442.7534450863513" y="0" width="13.299542112927984" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="456.05298719927924" y="0" width="2.6112245745848623" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.66421177386417" y="0" width="0.6759410300928457" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.34015280395704" y="0" width="0.6598471960430161" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.5933011897483" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="441.5933011897483" y="0" width="14.194177748113159" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="455.7874789378614" y="0" width="2.7868768290804535" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="458.5743557669419" y="0" width="0.7214103348004873" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.29576610174234" y="0" width="0.7042338982576185" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -81,8 +81,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>7.07k lines</div>
-                                <div>96.25%</div>
+                                <div>6.60k lines</div>
+                                <div>96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -94,7 +94,7 @@
                             </div>
                             <small>
                                 <div>34 lines</div>
-                                <div>0.57%</div>
+                                <div>0.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -106,7 +106,7 @@
                             </div>
                             <small>
                                 <div>10 lines</div>
-                                <div>0.14%</div>
+                                <div>0.15%</div>
                             </small>
                         </div>
                     </section>
@@ -120,7 +120,7 @@
                             </div>
                             <small>
                                 <div>198 lines</div>
-                                <div>2.89%</div>
+                                <div>3.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -132,7 +132,7 @@
                             </div>
                             <small>
                                 <div>8 lines</div>
-                                <div>0.15%</div>
+                                <div>0.16%</div>
                             </small>
                         </div>
                     </section>
@@ -218,7 +218,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="57.10526315789473 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.94736842105263 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -243,12 +243,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 7.74m out of 131m users</span>
+                                    <span class="gh">ranked 8.71m out of 131m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">8</div>
+                                        <div class="value">7</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 8 public repositories</div>
+                                <div class="text">Published 7 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
