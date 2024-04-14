@@ -59,17 +59,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 894kb of code in 936 edited files across 453 commits over last 91 days</small>
+                <small>estimation from 897kb of code in 944 edited files across 457 commits over last 91 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.2445879684726" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.2445879684726" y="0" width="1.8244612166154484" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.0690491850881" y="0" width="0.3642851014872775" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.4333342865754" y="0" width="0.33190420357729733" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.7652384901527" y="0" width="0.2347615098473566" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.2605873450499" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.2605873450499" y="0" width="1.8138674318307073" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.0744547768806" y="0" width="0.36216986991628103" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.4366246467969" y="0" width="0.3299769925903894" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.76660163938726" y="0" width="0.23339836061271443" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -81,7 +81,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>12k lines</div>
+                                <div>12.1k lines</div>
                                 <div>99.4%</div>
                             </small>
                         </div>
@@ -120,7 +120,7 @@
                             </div>
                             <small>
                                 <div>54 lines</div>
-                                <div>0.4%</div>
+                                <div>0.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -151,7 +151,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~17 coding hours recorded
+                            ~19 coding hours recorded
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -159,7 +159,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~3 hours of coding per day
+                            ~4 hours of coding per day
                         </div>
                     </section>
                 </div>
