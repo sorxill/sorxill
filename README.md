@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=256&color=0:FF0A6C,2000:2D27FF&text=Hello%20World!&section=header&reversal=false&textBg=false&fontColor=b5b8b1&fontAlign=50&fontAlignY=27&fontSize=80&stroke=362c12&strokeWidth=0&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descSize=25&descAlignY=52&descAlign=50)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaroslav-britov-43533629)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sorxill)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/sorxill)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=vac.ban17@gmail.com&su=Theme&body=HI!)
 
