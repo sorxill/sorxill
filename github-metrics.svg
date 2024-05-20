@@ -59,16 +59,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.05mb of code in 1075 edited files across 569 commits over last 87 days</small>
+                <small>estimation from 1.05mb of code in 1078 edited files across 572 commits over last 87 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.09255023891916" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.09255023891916" y="0" width="0.5282689463466385" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.62081918526576" y="0" width="0.2092203446960817" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.8300395299619" y="0" width="0.1699604700381471" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.09315374043314" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.09315374043314" y="0" width="0.5279176198902448" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.6210713603234" y="0" width="0.20908120223310728" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.8301525625565" y="0" width="0.16984743744352185" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -269,7 +269,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.51m out of 136m users</span>
+                                    <span class="gh">ranked 6.51m out of 137m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">10</div>
                                     </div>
