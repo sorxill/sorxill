@@ -59,16 +59,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.10mb of code in 1132 edited files across 612 commits over last 85 days</small>
+                <small>estimation from 1.11mb of code in 1134 edited files across 614 commits over last 85 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.1418953777628" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.1418953777628" y="0" width="0.49954283320818704" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.641438210971" y="0" width="0.19784339866476647" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.83928160963575" y="0" width="0.16071839036425212" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.146438497457" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.146438497457" y="0" width="0.49689807075752107" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.6433365682145" y="0" width="0.19679594335740017" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.8401325115719" y="0" width="0.1598674884281018" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -80,7 +80,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>24.9k lines</div>
+                                <div>25k lines</div>
                                 <div>99.81%</div>
                             </small>
                         </div>
@@ -269,7 +269,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.52m out of 137m users</span>
+                                    <span class="gh">ranked 6.53m out of 136m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">10</div>
                                     </div>
