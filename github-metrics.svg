@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            565 Commits
+                            567 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -59,17 +59,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.34mb of code in 1342 edited files across 762 commits over last 90 days</small>
+                <small>estimation from 1.35mb of code in 1344 edited files across 765 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.6773067231058" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.6773067231058" y="0" width="6.24588347826964" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.92319020137546" y="0" width="0.6433793554438951" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.56656955681933" y="0" width="0.23778744206610306" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.80435699888545" y="0" width="0.19564300111454982" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.0010440638591" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.0010440638591" y="0" width="6.92375480277768" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.9247988666368" y="0" width="0.64241819961091" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.5672170662477" y="0" width="0.23743220718792646" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.80464927343564" y="0" width="0.19535072656437527" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -82,7 +82,7 @@
                             </div>
                             <small>
                                 <div>28.8k lines</div>
-                                <div>98.41%</div>
+                                <div>98.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -119,8 +119,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>444 lines</div>
-                                <div>1.36%</div>
+                                <div>492 lines</div>
+                                <div>1.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -261,7 +261,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.04620123203286 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.25838466803559 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
