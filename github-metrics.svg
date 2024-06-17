@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            550 Commits
+                            557 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -59,17 +59,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.32mb of code in 1320 edited files across 736 commits over last 90 days</small>
+                <small>estimation from 1.33mb of code in 1327 edited files across 744 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.4420093027394" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.4420093027394" y="0" width="0.6548362011219067" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.09684550386135" y="0" width="0.4620058293973068" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.55885133325864" y="0" width="0.2420217930829162" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.8008731263415" y="0" width="0.19912687365846438" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.13888262307364" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.13888262307364" y="0" width="2.7706385315009725" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.9095211545746" y="0" width="0.6515464268538183" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.5610675814284" y="0" width="0.24080592098263115" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.801873502411" y="0" width="0.1981264975889616" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -82,19 +82,19 @@
                             </div>
                             <small>
                                 <div>28.5k lines</div>
-                                <div>99.66%</div>
+                                <div>99.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#7e858d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go
+                                Mako
                             </div>
                             <small>
-                                <div>23 lines</div>
-                                <div>0.1%</div>
+                                <div>53 lines</div>
+                                <div>0.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,13 +114,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#7e858d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Mako
+                                Go
                             </div>
                             <small>
-                                <div>53 lines</div>
-                                <div>0.14%</div>
+                                <div>184 lines</div>
+                                <div>0.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -344,7 +344,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.452261306532663 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.010050251256281 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -363,10 +363,10 @@
                                     <span class="prefix"></span>
                                     Stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">8</div>
+                                        <div class="value">10</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 8 repositories</div>
+                                <div class="text">Starred 10 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
