@@ -59,17 +59,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.29mb of code in 1287 edited files across 785 commits over last 92 days</small>
+                <small>estimation from 1.32mb of code in 1314 edited files across 801 commits over last 93 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.4245549507915" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.4245549507915" y="0" width="12.443853224299149" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.8684081750907" y="0" width="0.6761108785095599" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.54451905360025" y="0" width="0.2498847297376078" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.7944037833378" y="0" width="0.20559621666216185" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.8266705523365" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="446.8266705523365" y="0" width="12.07525628278534" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.90192683512186" y="0" width="0.656083930469366" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.55801076559123" y="0" width="0.24248294305207937" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.8004937086433" y="0" width="0.19950629135667022" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -81,8 +81,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>27.8k lines</div>
-                                <div>97.05%</div>
+                                <div>28.5k lines</div>
+                                <div>97.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -94,7 +94,7 @@
                             </div>
                             <small>
                                 <div>53 lines</div>
-                                <div>0.15%</div>
+                                <div>0.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -120,7 +120,7 @@
                             </div>
                             <small>
                                 <div>917 lines</div>
-                                <div>2.71%</div>
+                                <div>2.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -151,7 +151,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~18 coding hours recorded
+                            ~16 coding hours recorded
                         </div>
                     </section>
                     <section class="largeable-column-fields">
