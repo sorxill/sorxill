@@ -59,17 +59,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.21mb of code in 1196 edited files across 726 commits over last 90 days</small>
+                <small>estimation from 1.21mb of code in 1195 edited files across 725 commits over last 91 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.91065634058754" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.91065634058754" y="0" width="13.884394063946697" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.7950504045342" y="0" width="0.7199411586553022" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.51499156318954" y="0" width="0.26608402197897285" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.7810755851685" y="0" width="0.21892441483148012" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.9011698493219" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.9011698493219" y="0" width="13.89312301770303" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.7942928670249" y="0" width="0.7203937771168814" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.5146866441418" y="0" width="0.266251305845482" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.78093794998733" y="0" width="0.21906205001270554" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -81,7 +81,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>25.6k lines</div>
+                                <div>25.5k lines</div>
                                 <div>96.72%</div>
                             </small>
                         </div>
@@ -261,7 +261,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.40965092402465 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.62183436002739 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
