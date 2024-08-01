@@ -59,17 +59,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 940kb of code in 933 edited files across 588 commits over last 91 days</small>
+                <small>estimation from 867kb of code in 891 edited files across 565 commits over last 92 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.449974216724" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.449974216724" y="0" width="18.386913555027988" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.83688777175195" y="0" width="0.6886999499281307" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.5255877216801" y="0" width="0.28648084439606103" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.81206856607616" y="0" width="0.18793143392381603" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.9467850285938" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.9467850285938" y="0" width="19.77535501051655" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.72214003911034" y="0" width="0.7566441738863884" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.47878421299674" y="0" width="0.3147438327314428" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.7935280457282" y="0" width="0.20647195427182646" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -81,8 +81,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>18.2k lines</div>
-                                <div>95.75%</div>
+                                <div>16.3k lines</div>
+                                <div>95.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -94,7 +94,7 @@
                             </div>
                             <small>
                                 <div>36 lines</div>
-                                <div>0.15%</div>
+                                <div>0.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -119,8 +119,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>968 lines</div>
-                                <div>4%</div>
+                                <div>947 lines</div>
+                                <div>4.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -132,7 +132,7 @@
                             </div>
                             <small>
                                 <div>12 lines</div>
-                                <div>0.06%</div>
+                                <div>0.07%</div>
                             </small>
                         </div>
                     </section>
@@ -151,7 +151,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~8 coding hours recorded
+                            ~7 coding hours recorded
                         </div>
                     </section>
                     <section class="largeable-column-fields">
