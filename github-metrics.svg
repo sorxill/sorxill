@@ -59,17 +59,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 846kb of code in 860 edited files across 537 commits over last 92 days</small>
+                <small>estimation from 770kb of code in 804 edited files across 507 commits over last 92 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.877732925908" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="437.877732925908" y="0" width="20.806121528521654" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.6838544544296" y="0" width="0.7793137663919176" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.4631682208215" y="0" width="0.3241737796971371" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.78734200051866" y="0" width="0.21265799948132194" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.22612803583576" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="435.22612803583576" y="0" width="23.299971431141948" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.5260994669777" y="0" width="0.8727233697994025" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.3988228367771" y="0" width="0.36302968793652346" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.7618525247136" y="0" width="0.23814747528635938" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -81,8 +81,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>16k lines</div>
-                                <div>95.19%</div>
+                                <div>14.1k lines</div>
+                                <div>94.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -94,7 +94,7 @@
                             </div>
                             <small>
                                 <div>36 lines</div>
-                                <div>0.17%</div>
+                                <div>0.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -120,7 +120,7 @@
                             </div>
                             <small>
                                 <div>968 lines</div>
-                                <div>4.52%</div>
+                                <div>5.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -132,7 +132,7 @@
                             </div>
                             <small>
                                 <div>12 lines</div>
-                                <div>0.07%</div>
+                                <div>0.08%</div>
                             </small>
                         </div>
                     </section>
@@ -494,7 +494,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.23m out of 141m users</span>
+                                    <span class="gh">ranked 3.24m out of 141m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
