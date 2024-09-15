@@ -59,14 +59,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 275kb of code in 300 edited files across 242 commits over last 93 days</small>
+                <small>estimation from 275kb of code in 298 edited files across 238 commits over last 91 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="404.8766789769863" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="404.8766789769863" y="0" width="55.1233210230137" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="404.86206046480356" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="404.86206046480356" y="0" width="55.13793953519643" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -78,8 +78,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>5.33k lines</div>
-                                <div>88.02%</div>
+                                <div>5.32k lines</div>
+                                <div>88.01%</div>
                             </small>
                         </div>
                     </section>
@@ -93,7 +93,7 @@
                             </div>
                             <small>
                                 <div>968 lines</div>
-                                <div>11.98%</div>
+                                <div>11.99%</div>
                             </small>
                         </div>
                     </section>
@@ -204,7 +204,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.69m out of 143m users</span>
+                                    <span class="gh">ranked 5.69m out of 144m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">12</div>
                                     </div>
@@ -421,7 +421,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.41m out of 143m users</span>
+                                    <span class="gh">ranked 2.41m out of 144m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
