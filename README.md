@@ -30,8 +30,8 @@
     <summary><h4>👨‍💻 <b>GitHub Activities</b></h4></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4518](https://github.com/psf/black/pull/4518) in [psf/black](https://github.com/psf/black)
-2. 🗣 Commented on [#34](https://github.com/sorxill/Tracker/issues/34#issuecomment-1999400917) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
+1. 🗣 Commented on [#4518](https://github.com/psf/black/pull/4518#issuecomment-2499781167) in [psf/black](https://github.com/psf/black)
+2. 💪 Opened PR [#4518](https://github.com/psf/black/pull/4518) in [psf/black](https://github.com/psf/black)
 3. 🎉 Merged PR [#38](https://github.com/sorxill/Tracker/pull/38) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
 4. 💪 Opened PR [#38](https://github.com/sorxill/Tracker/pull/38) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
 5. 🎉 Merged PR [#37](https://github.com/sorxill/Tracker/pull/37) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
