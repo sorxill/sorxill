@@ -30,10 +30,10 @@
     <summary><h4>👨‍💻 <b>GitHub Activities</b></h4></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4518](https://github.com/psf/black/pull/4518#issuecomment-2499781167) in [psf/black](https://github.com/psf/black)
-2. 💪 Opened PR [#4518](https://github.com/psf/black/pull/4518) in [psf/black](https://github.com/psf/black)
-3. 🎉 Merged PR [#38](https://github.com/sorxill/Tracker/pull/38) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
-4. 💪 Opened PR [#38](https://github.com/sorxill/Tracker/pull/38) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
+1. ❌ Closed PR [#5](https://github.com/sorxill/sorxill-site/pull/5) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
+2. ❌ Closed PR [#7](https://github.com/sorxill/sorxill-site/pull/7) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
+3. ❌ Closed PR [#8](https://github.com/sorxill/sorxill-site/pull/8) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
+4. ❌ Closed PR [#10](https://github.com/sorxill/sorxill-site/pull/10) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
 5. 🎉 Merged PR [#37](https://github.com/sorxill/Tracker/pull/37) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
 <!--END_SECTION:activity-->
 
