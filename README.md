@@ -30,11 +30,11 @@
     <summary><h4>👨‍💻 <b>GitHub Activities</b></h4></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/sorxill/sorxill-site/pull/5) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
-2. ❌ Closed PR [#7](https://github.com/sorxill/sorxill-site/pull/7) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
-3. ❌ Closed PR [#8](https://github.com/sorxill/sorxill-site/pull/8) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
-4. ❌ Closed PR [#10](https://github.com/sorxill/sorxill-site/pull/10) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
-5. 🎉 Merged PR [#37](https://github.com/sorxill/Tracker/pull/37) in [sorxill/Tracker](https://github.com/sorxill/Tracker)
+1. ❌ Closed PR [#22](https://github.com/sorxill/sorxill-site/pull/22) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
+2. ❌ Closed PR [#5](https://github.com/sorxill/sorxill-site/pull/5) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
+3. ❌ Closed PR [#7](https://github.com/sorxill/sorxill-site/pull/7) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
+4. ❌ Closed PR [#8](https://github.com/sorxill/sorxill-site/pull/8) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
+5. ❌ Closed PR [#10](https://github.com/sorxill/sorxill-site/pull/10) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
 <!--END_SECTION:activity-->
 
 </details>
