@@ -30,7 +30,7 @@
     <summary><h4>👨‍💻 <b>GitHub Activities</b></h4></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/sorxill/sorxill-site/pull/22) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
+1. ❗ Opened issue [#1](https://github.com/dmitry-osin/system-design-book/issues/1) in [dmitry-osin/system-design-book](https://github.com/dmitry-osin/system-design-book)
 2. ❌ Closed PR [#5](https://github.com/sorxill/sorxill-site/pull/5) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
 3. ❌ Closed PR [#7](https://github.com/sorxill/sorxill-site/pull/7) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
 4. ❌ Closed PR [#8](https://github.com/sorxill/sorxill-site/pull/8) in [sorxill/sorxill-site](https://github.com/sorxill/sorxill-site)
