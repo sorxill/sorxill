@@ -10,11 +10,11 @@
 > 
 > ### **👋 Name: Yaroslav**
 > 
-> ### **⏳ Age: 20**
+> ### **⏳ Age: 22**
 >
 >  ### **📍 Vacation: Python Backend Developer**
 > 
-> ### **🌟 Development Experience: about 3 year**
+> ### **🌟 Development Experience: about 4 year**
 >
 > ## **🔧 Technologies:**
 > 
